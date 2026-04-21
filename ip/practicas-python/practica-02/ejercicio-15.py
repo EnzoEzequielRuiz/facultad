@@ -18,7 +18,7 @@ elif num1 > num2 and num2 < num3:
     #3   1   2
     aux_1 = num2
     num2 = num3
-    num3 = aux
+    num3 = aux_1
     print(f'Mayor a menor: {num1},{num2},{num3}')
 
 elif num1 > num2 and num1 < num3:
